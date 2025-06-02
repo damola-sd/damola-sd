@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @damola-sd
 - 👀 I’m interested in new and exciting opportunities that allow me to learn
-- 🌱 I’m currently learning PostgreSQL
+- 🌱 I’m currently learning to improve my devops and AI/ML skills
 - 💞️ I’m looking to collaborate on all projects with new and exciting prospects
 - 📫 How to reach me ...damolasd@gmail.com
 
